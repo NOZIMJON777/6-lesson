@@ -1,0 +1,36 @@
+body{
+    background-color: grey;
+}
+div{
+
+    justify-content: center;
+    text-align: center;
+    display: block;
+    height: 700px;
+    margin-left: 150px;
+    margin-right: 150px;
+   border: 1px solid #319188;
+   background-color: #43C5B8; 
+}
+.saturday{
+    margin-top: 40px;
+    height: 100px;
+     color: aliceblue;
+   
+    
+}
+.saturday10{
+    color: white;
+    font-size: 150px;
+    font-style:normal;
+   margin-top: 5px;
+    
+
+
+
+
+    
+}
+
+
+

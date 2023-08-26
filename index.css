@@ -1,0 +1,49 @@
+h1{
+    color: #39B5DE;
+    margin-right: 110px;
+    font-size: 19px;
+}
+body{
+    background:#39B5DE;
+}
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+div{
+    margin-left: 500px;
+    margin-top: 80px;
+    background: white;
+ justify-content: center;
+ align-items: center;   
+display:flex;
+width: 450px;
+height: 300px;
+flex-direction: column;
+border: 1px white solid;
+}
+.username{
+    text-transform: capitalize;
+    margin-top: 10px;
+    width: 300px;
+    height: 30px;
+    color: grey;
+}
+.password{
+    text-transform: capitalize;
+    margin-top: 15px;
+    width: 300px;
+    height: 30px; 
+    color: grey; 
+    margin-bottom: 5px;
+}
+.login{
+    width: 300px;
+    height: 30px;
+    background:#39B5DE;
+    color:white;
+    margin-bottom: 20px;
+    border: 1px solid;
+}
